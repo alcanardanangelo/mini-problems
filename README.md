@@ -1,2 +1,2 @@
 # mini-problems
-mini coding problems.
+mini coding problems using php.
